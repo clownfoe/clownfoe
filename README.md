@@ -1,3 +1,6 @@
+<div align="center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=18&pause=1000&color=935378&width=435&lines=there's+something+so+great+about+platonic+intimacy" alt="Typing SVG" /></a>
+
 <img src="https://file.garden/aiaNdwBIsyYpau1V/Post_by__axoqiii___2_images-removebg-preview.png" width="300" align="left" title="lovepilled"></a>
 <div align="right">
   <table>
