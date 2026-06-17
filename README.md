@@ -12,3 +12,6 @@ $\color{#b5677e}{\textsf{i block freely}}$<br>
     </tr>
   </table>
   </div>
+  <div align="right">
+    
+[strawpage](https://grianhasaids.straw.page/) ‎ ‎ ‎ ‎ ‎ [ata](https://twomuchgrian.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
