@@ -20,4 +20,7 @@ $\color{#b5677e}{\textsf{i block freely}}$<br>
 <img src="https://64.media.tumblr.com/d7d3e9ee71880c11f8c754c393b93468/9890b450b70b5d13-66/s2048x3072/28c1c3c4ecbd210c870f13d948903348d22c4b03.pnj" alt="grian banner" width="650"></a>
 
 <img src="https://file.garden/aiaNdwBIsyYpau1V/hellolittle%20grian.png" width="200" align="right" title="sign my ata for little grian"></a>
-hi this is still a wip im dying
+$\color{#cc7980}{\textsf{' i used to hear a simple song,}}$ $\color{#8d5477}{\textsf{that was until you came along}}$
+
+
+$\color{#814976}{\textsf{now in it's place}}$ $\color{#6a4570}{\textsf{is something}}$ $\color{#5a3f6f}{\textsf{new}}$
