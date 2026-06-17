@@ -24,3 +24,7 @@ $\color{#cc7980}{\textsf{' i used to hear a simple song,}}$ $\color{#8d5477}{\te
 
 
 $\color{#814976}{\textsf{now in it's place}}$ $\color{#6a4570}{\textsf{is something}}$ $\color{#5a3f6f}{\textsf{new}}$
+
+$\color{#935378}{\textsf{i hear it when}}$ $\color{#8d5477}{\textsf{i look at}}$
+
+$\color{#cc7980}{\textsf{you '}}$
