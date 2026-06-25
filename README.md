@@ -1,3 +1,5 @@
+<img src="https://files.catbox.moe/dwu06k.png">
+
 <div align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=18&pause=1000&color=935378&width=435&lines=there's+something+so+great+about+platonic+intimacy" width="500" alt="Typing SVG" /></a>
 
@@ -33,3 +35,5 @@ $\color{#935378}{\textsf{i hear it when}}$ $\color{#8d5477}{\textsf{i look at}}$
 $\color{#cc7980}{\textsf{you '}}$
 
 $\color{#cc7980}{\textsf{thank you}}$ [pt-players](https://github.com/pt-players)
+
+<img src="https://files.catbox.moe/dwu06k.png">
