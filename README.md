@@ -36,6 +36,6 @@ $\color{#cc7980}{\textsf{you '}}$
 
 $\color{#cc7980}{\textsf{thank you}}$ [pt-players](https://github.com/pt-players)
 
-$\color{#cc7980}{\textsf{my country recently got stuck by two earthquakes, leaving 7.9M people in need of help and over 4M people reported missing.}}$ [donate to venezuela](https://crisisrelief.un.org/en/donate-venezuela-crisis) [gofundme](https://www.gofundme.com/c/act/venezuela-earthquake-relief)
+$\color{#cc7980}{\textsf{my country recently got hit by two earthquakes, leaving 7.9M people in need of help and over 4M people reported missing.}}$ [donate to venezuela](https://crisisrelief.un.org/en/donate-venezuela-crisis) [gofundme](https://www.gofundme.com/c/act/venezuela-earthquake-relief)
 
 <img src="https://files.catbox.moe/dwu06k.png">
