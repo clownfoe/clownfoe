@@ -19,7 +19,7 @@ $\color{#b5677e}{\textsf{i block freely}}$<br>
   </div>
   <div align="right">
     
-[rentry](https://www.youtube.com/watch?v=xvFZjo5PgG0) ‎ ‎ ‎ ‎ ‎ [ata](https://twomuchgrian.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+[rentry](https://www.youtube.com/watch?v=xvFZjo5PgG0) ‎ ‎ ‎ ‎ ‎ [ata](https://twomuchgrian.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎ ‎ [tetratto](https://tetratto.com/@mcbushpig)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 <div align="center">
   
 <img src="https://64.media.tumblr.com/d7d3e9ee71880c11f8c754c393b93468/9890b450b70b5d13-66/s2048x3072/28c1c3c4ecbd210c870f13d948903348d22c4b03.pnj" alt="grian banner" width="650"></a>
